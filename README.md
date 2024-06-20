@@ -1,4 +1,4 @@
-# Habit Tracking project#
+# Habit Tracking project
 This script allows you to track your habits or  activities by interfacing with the Pixela API. You can create, update, and delete records of your habits. Here I use cycling as my habit and find cycling  distance.
 
 Features
